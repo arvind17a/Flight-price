@@ -1,3 +1,5 @@
-# Flight-price
+# Flight-price Predication 
 ## Objective
-Prediction of flight prices using ML algorithms.
+Analysing & Predicting Flight Delays for the Airport Authorities
+
+Perform Exploratory data anlyasis and flight status using logistic regression 
